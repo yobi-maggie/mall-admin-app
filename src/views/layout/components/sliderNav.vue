@@ -52,5 +52,7 @@ export default {
     position: fixed;
     right: 0;
     top: 0;
+    z-index: 10;
+    background-color: #fff;
   }
 </style>
