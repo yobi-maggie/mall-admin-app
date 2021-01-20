@@ -1,5 +1,6 @@
 module.exports = {
   publicPath: './',
+
   css: {
     loaderOptions: {
       less: {
@@ -7,4 +8,6 @@ module.exports = {
       },
     },
   },
+
+  outputDir: 'docs',
 };
